@@ -1,5 +1,12 @@
-## Hi there 👋
-
+![GIF](https://i.pinimg.com/originals/8b/a7/12/8ba712d6b8b1071cf56378c0ad81a499.gif)
+Привет! Я Дарья - студент ИТМО.
+Сейчас я изучаю: 
+- Git & Github
+- C / Python / JavaScript
+- Linux
+Как связаться:
+Email: dasha.slgn@gmail.com
+Tg: @vxsds
 <!--
 **daryasilantieva/daryasilantieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
