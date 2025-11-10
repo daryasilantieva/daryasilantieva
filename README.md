@@ -1,5 +1,4 @@
-![GIF](https://usagif.com/wp-content/uploads/upgifsok/tumbleweed-acegif-14.gif)
-
+![GIF](https://media.tenor.com/whQNIY8P2GYAAAAd/tumbleweed-silence.gif)
 
 
 Привет! Я Дарья - студент ИТМО.
